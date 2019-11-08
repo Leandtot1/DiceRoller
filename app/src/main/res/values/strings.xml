@@ -2,4 +2,6 @@
     <string name="app_name">DiceRoller</string>
     <string name="action_settings">Settings</string>
     <string name="roll_the_dice">Roll the dice</string>
+    <string name="correct_guesses">correct guesses</string>
+    <string name="Guessthenumber">Guess_the_number</string>
 </resources>
